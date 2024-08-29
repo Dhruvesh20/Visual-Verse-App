@@ -7,20 +7,19 @@ VisualVerse is a social media Android application developed in Kotlin. The app o
 ### Feature 1: Home Fragment
 View posts from accounts you follow, like, comment, and share posts with other VisualVerse users.
 
-<img src="Visual-Verse-App/ss/picture6.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture6.jpg" width="220" alt="News App Screenshot 1">
 
-### Feature 2: Explore Section
-See all posts in the database.
 
-![Explore Section](explore.jpg)
 
 ### Feature 3: Account Management
 Edit your profile, including profile picture, name, bio, and password. You can also delete your account.
 
-![Profile Edit](profile_edit.jpg)
+<img src="ss/Picture7.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture8.jpg" width="220" alt="News App Screenshot 1">
 
 ### Feature 4: Feed Customization
 Customize your feed by selecting which topics to prioritize or hide.
+<img src="ss/Picture9.jpg" width="220" alt="News App Screenshot 1">
 
 ![Feed Customization](feed_customization.jpg)
 
