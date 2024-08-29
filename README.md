@@ -65,19 +65,9 @@ A special account type with a rating system that is visible to others on the pro
 - **Kotlin**: Programming language used for Android app development.
 - **Python & Flask**: Used for backend services and handling notifications.
 - **Firebase**: Used for user authentication, real-time database, and notifications.
-- **Glide Library**: For image loading and caching.
 
-## Getting Started
 
-1. Clone the repository to your local machine.
 
-    ```bash
-    git clone https://github.com/yourusername/VisualVerse.git
-    ```
-
-2. Open the project in Android Studio.
-
-3. Build and run the app on an Android emulator or device.
 
 ## Usage
 
@@ -88,9 +78,7 @@ A special account type with a rating system that is visible to others on the pro
 5. Manage notifications and track your app usage.
 6. Provide feedback and share the app with others.
 
-## Contributing
 
-If you want to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
 ## Contact
 
