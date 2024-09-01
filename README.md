@@ -77,8 +77,12 @@ Create an account using email or phone number with verification via email or OTP
 
 ### Feature 11: Skilled Account
 A special account type with a rating system that is visible to others on the profile.
+<div align="center">
+<img src="ss/Picture5.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture26.jpg" width="220" alt="News App Screenshot 1">
 
-![Skilled Account](skilled_account.jpg)
+</div>
+
 
 ## Technologies Used
 
@@ -100,9 +104,20 @@ A special account type with a rating system that is visible to others on the pro
 6. Provide feedback and share the app with others.
 
 
+## App Download Link - https://visual-verse-app.vercel.app
 
-## Contact
+## Developers
 
-Your Name  
+Kalpak Patil 
 Email: kalpakpatil131@gmail.com  
 GitHub: [Patil-Kalpak](https://github.com/Patil-Kalpak)
+
+Rohan Baria
+Email: 4177rb@gmail.com
+ 
+Dhruvesh Bhalekar
+Email: bhalekardhruvesh2006@gmail.com  
+ 
+
+
+
