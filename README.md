@@ -7,41 +7,63 @@ VisualVerse is a social media Android application developed in Kotlin. The app o
 ### Feature 1: Home Fragment
 View posts from accounts you follow, like, comment, and share posts with other VisualVerse users.
 
+<div align="center">
 <img src="ss/Picture6.jpg" width="220" alt="News App Screenshot 1">
-
+</div>
 
 
 ### Feature 3: Account Management
 Edit your profile, including profile picture, name, bio, and password. You can also delete your account.
 
+<div align="center">
 <img src="ss/Picture7.jpg" width="220" alt="News App Screenshot 1">
 <img src="ss/Picture8.jpg" width="220" alt="News App Screenshot 1">
+</div>
+
 
 ### Feature 4: Feed Customization
 Customize your feed by selecting which topics to prioritize or hide.
-<img src="ss/Picture9.jpg" width="220" alt="News App Screenshot 1">
 
-![Feed Customization](feed_customization.jpg)
+
+
+<div align="center">
+<img src="ss/Picture9.jpg" width="220" alt="News App Screenshot 1">
+</div>
 
 ### Feature 5: Notifications
 Receive customizable notifications for messages, followers, and new posts.
 
-![Notifications](notifications.jpg)
+<div align="center">
+<img src="ss/Picture10.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture11.jpg" width="220" alt="News App Screenshot 1">
+</div>
 
 ### Feature 6: Usage Tracking
 Track app usage time for the past 24 hours. For minor accounts, if usage exceeds 4 hours in a day, the account is temporarily blocked until the next day.
 
-![Usage Tracking](usage_tracking.jpg)
+<div align="center">
+<img src="ss/Picture12.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture13.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture14.jpg" width="220" alt="News App Screenshot 1">
+</div>
 
 ### Feature 7: Chat & Media Sharing
 Chat with other users, send images from your gallery, and share posts.
-
-![Chat & Media Sharing](chat_media_sharing.jpg)
+<div align="center">
+<img src="ss/Picture19.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture20.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture21.jpg" width="220" alt="News App Screenshot 1">
+</div>
+ 
 
 ### Feature 8: Feedback
 Provide feedback to help improve the app.
 
-![Feedback](feedback.jpg)
+<div align="center">
+<img src="ss/Picture19.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture20.jpg" width="220" alt="News App Screenshot 1">
+<img src="ss/Picture21.jpg" width="220" alt="News App Screenshot 1">
+</div>
 
 ### Feature 9: App Sharing
 Share VisualVerse via the official website on platforms like WhatsApp, Instagram, and Facebook.
